@@ -1,0 +1,2 @@
+joint_work/model_random.pickle filter=lfs diff=lfs merge=lfs -text
+nlp/three_klaster.csv filter=lfs diff=lfs merge=lfs -text
